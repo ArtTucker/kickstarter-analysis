@@ -47,11 +47,5 @@ After all this work, what have we learned about setting a Kickstarter campaign o
 * Campaigns launched in May or June tend to be the most successful, while campaigns launched in December have almost as much of a chance at failing than succeeding.
 * Campaigns for plays launched with moderate goals - under $20,000 - have the most chance for success.
 
-So, do we now have all the tools necessary to create our own phenomenal, blockbuster theater-related Kickstarter campaign? Not really. There are a variety of limitations inherent in this analysis. First and foremost, the dataset we started with was exceptionally limited and dated. It was a sampling of only just over 4000 campaigns, dating from 2009 to 2017. Secondly, since the sample was incomplete and seemed heavily biased towards theater-based projects, we also can't be sure that it wasn't also heavily biased towards ***successes***, ***successful campaigns that launched in the middle of the year***, or ***Successful campaigns with goals under $20,000***. Additionally, this form of analysis tells us nothing of the effect of marketing or additional milestone goals on the success of a campaign. Lastly, while Excel is a great tool, it would be easily overwhelmed by datasets of 
-
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-
+So, do we now have all the tools necessary to create our own phenomenal, blockbuster theater-related Kickstarter campaign? Not really. There are a variety of limitations inherent in this analysis. First and foremost, the dataset we started with was exceptionally limited and dated. It was a sampling of only just over 4000 campaigns, dating from 2009 to 2017. Secondly, since the sample was incomplete and seemed heavily biased towards theater-based projects, we also can't be sure that it wasn't also heavily biased towards ***successes***, ***successful campaigns that launched in the middle of the year***, or ***Successful campaigns with goals under $20,000***. Additionally, this form of analysis tells us nothing of the effect of marketing or additional milestone goals on the success of a campaign. Lastly, while Excel is a great tool, it would be easily overwhelmed by datasets with hundreds of thousands of entries, not to mention millions. We would need far more robust tools for jobs of that magnitude.
 
