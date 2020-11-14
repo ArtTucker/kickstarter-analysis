@@ -49,3 +49,8 @@ After all this work, what have we learned about setting a Kickstarter campaign o
 
 So, do we now have all the tools necessary to create our own phenomenal, blockbuster theater-related Kickstarter campaign? Not really. There are a variety of limitations inherent in this analysis. First and foremost, the dataset we started with was exceptionally limited and dated. It was a sampling of only just over 4000 campaigns, dating from 2009 to 2017. Secondly, since the sample was incomplete and seemed heavily biased towards theater-based projects, we also can't be sure that it wasn't also heavily biased towards ***successes***, ***successful campaigns that launched in the middle of the year***, or ***Successful campaigns with goals under $20,000***. Additionally, this form of analysis tells us nothing of the effect of marketing or additional milestone goals on the success of a campaign. Lastly, while Excel is a great tool, it would be easily overwhelmed by datasets with hundreds of thousands of entries, not to mention millions. We would need far more robust tools for jobs of that magnitude.
 
+That said, if one wished to carry analysis of this dataset forward, there are a few other tables and graphs that could be useful:
+* ***Average campaign length for successful theater campaigns*** might reveal whether longer campaigns were more or less successful.
+* ***Pledged amount for successful theater-based campaigns between Great Britain and the US*** could reveal to us if "Louise" would have more luck taking her play overseas or keeping it in the States.
+* ***Average number of backers for successful theater-based campaigns*** would tell "Louise" what size venue she might need for her production, or how many backer gifts she might need to produce.
+
